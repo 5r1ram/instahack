@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: lime;
+}
+
+h1 {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: left;
+    margin-bottom: 30px;
+}

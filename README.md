@@ -1,2 +1,0 @@
-# instahack 
-funhack
